@@ -1,0 +1,68 @@
+.navbar {
+  background-color: red;
+  height: 50px;
+  margin-bottom: 5px;
+}
+.navbar2 {
+  background-color: yellow;
+  height: 150px;
+  margin-bottom: 5px;
+}
+.global {
+  height: 500px;
+  display: flex;
+}
+.Left {
+  background-color: blue;
+  height: 500px;
+  width: 50%;
+  margin-right: 5px;
+}
+
+.Right {
+  height: 500px;
+  width: 50%;
+}
+.RightGreen {
+  background-color: green;
+  height: 250px;
+  width: 100%;
+  margin-bottom: 5px;
+}
+.RightGlobal {
+  height: 250px;
+  width: 100%;
+  display: flex;
+}
+.RightLeft {
+  background-color: brown;
+  height: 250px;
+  width: 25%;
+  margin-right: 5px;
+}
+.RightRight {
+  height: 250px;
+  width: 80%;
+}
+.RightRightTop {
+  background-color: cadetblue;
+  height: 125px;
+  width: 100%;
+  margin-bottom: 5px;
+}
+.RightDown {
+  height: 125px;
+  width: 100%;
+  display: flex;
+}
+.RightDownLeft {
+  background-color: bisque;
+  height: 125px;
+  width: 50%;
+  margin-right: 5px;
+}
+.RightDownRight {
+  background-color: black;
+  height: 125px;
+  width: 50%;
+}
